@@ -1,2 +1,4 @@
 # ignore the `local/` directory
 local/
+.ipynb_checkpoints/
+
